@@ -1,0 +1,18 @@
+kind: pipeline
+type: exec
+name: default
+
+platform:
+  os: linux
+  arch: amd64
+
+steps:
+- name: build
+  commands:
+    - docker build -t dashboard-sui .
+
+- name: run
+  commands:
+    - cd /var/docker/webpages/sui
+    - docker-compose stop sui-dashboard
+    - docker-compose up -d sui-dashboard

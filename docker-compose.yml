@@ -2,9 +2,9 @@ version: '3.7'
 
 services:
   sui-dashboard:
-#    image: rani-sui
-    build:
-      context: ./
+    image: dashboard-sui
+#    build:
+#      context: ./
     container_name: dashboard_rani
     restart: unless-stopped
     ports:
@@ -19,4 +19,3 @@ services:
       - traefik.http.routers.dashboard.tls.certresolver=default
     environment:
       - VIRTUAL_HOST=dashboard.ranii.pro
-    
