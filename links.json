@@ -5,15 +5,15 @@
         "links": [
         {
             "name": "Discord",
-            "url": "discordapp.com/"
+            "url": "https://discordapp.com/"
         },
         {
             "name": "Gmail",
-            "url": "gmail.com"
+            "url": "https://gmail.com"
         },
         {
             "name": "Deepl Translate",
-            "url": "www.deepl.com/translator"
+            "url": "https://www.deepl.com/translator"
         }
         ]
     },
@@ -22,11 +22,11 @@
         "links": [
         {
             "name": "Drive",
-            "url": "drive.google.com"
+            "url": "https://drive.google.com"
         },
         {
             "name": "Google Docs",
-            "url": "docs.google.com/document/"
+            "url": "https://docs.google.com/document/"
         }
         ]
     },
@@ -35,7 +35,7 @@
         "links": [
         {
             "name": "Draw.io",
-            "url": "www.draw.io"
+            "url": "https://www.draw.io"
         }
         ]
     },
@@ -44,15 +44,15 @@
         "links": [
         {
             "name": "Codepen",
-            "url": "codepen.io/"
+            "url": "https://codepen.io/"
         },
         {
             "name": "Devdocs",
-            "url": "devdocs.io"
+            "url": "https://devdocs.io"
         },
         {
             "name": "Devhints",
-            "url": "devhints.io"
+            "url": "https://devhints.io"
         }
         ]
     },
@@ -61,11 +61,11 @@
         "links": [
         {
             "name": "Spotify",
-            "url": "browse.spotify.com"
+            "url": "https://open.spotify.com/browse/featured"
         },
         {
             "name": "YouTube",
-            "url": "youtube.com/subscriptions"
+            "url": "https://youtube.com/subscriptions"
         }
         ]
     },
@@ -74,11 +74,11 @@
         "links": [
         {
             "name": "Medium",
-            "url": "medium.com"
+            "url": "https://medium.com"
         },
         {
             "name": "Reddit",
-            "url": "reddit.com"
+            "url": "https://reddit.com"
         }
         ]
     },
@@ -87,11 +87,11 @@
         "links": [
         {
             "name": "Speedtest",
-            "url": "speed.cloudflare.com/"
+            "url": "https://speed.cloudflare.com/"
         },
         {
             "name": "The Verge",
-            "url": "theverge.com/"
+            "url": "https://theverge.com/"
         }
         ]
     }
