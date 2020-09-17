@@ -1,6 +1,7 @@
 {
     "apps" : [
-        {"name": "Traefik","url": "****.ranii.pro","icon": "compare-horizontal"},
+        {"name":"Traefik","url": "****.ranii.pro","icon": "compare-horizontal"},
+        {"name":"netdata","url": "netdata.ranii.pro","icon": "rocket-outline"},
         {"name":"qBittorent","url":"torrent.ranii.pro","icon":"download"},
         {"name":"Public Download","url":"download.ranii.pro","icon":"folder"},
         {"name":"Private Download","url":"internal.ranii.pro","icon":"folder"},
