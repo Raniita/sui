@@ -2,9 +2,9 @@
     "apps" : [
         {"name":"Traefik","url": "****.ranii.pro","icon": "compare-horizontal"},
         {"name":"netdata","url": "netdata.ranii.pro","icon": "rocket-outline"},
-        {"name":"qBittorent","url":"torrent.ranii.pro","icon":"download"},
         {"name":"Public Download","url":"download.ranii.pro","icon":"folder"},
         {"name":"Private Download","url":"internal.ranii.pro","icon":"folder"},
+        {"name":"qBittorent","url": "torrent.ranii.pro","icon": "download"},
         {"name":"Octoprint","url":"10.0.0.5:5000","icon":"printer"},
         {"name":"Gallery","url":"gallery.ranii.pro","icon":"camera"},
         {"name":"Database?","url":"database.ranii.pro","icon":"package-down"}
