@@ -6,7 +6,8 @@
         {"name":"Private Download","url":"internal.ranii.pro","icon":"folder"},
         {"name":"qBittorent","url": "torrent.ranii.pro","icon": "download"},
         {"name":"Octoprint","url":"10.0.0.5:5000","icon":"printer"},
-        {"name":"Gallery","url":"gallery.ranii.pro","icon":"camera"},
-        {"name":"Database?","url":"database.ranii.pro","icon":"package-down"}
+        {"name":"Seafile Cloud","url":"cloud.ranii.pro","icon":"cloud-upload"},
+        {"name":"Recipes Mealie","url":"recipes.ranii.pro","icon":"food-fork-drink"},
+        {"name":"Bitwarden","url":"bitwarden.ranii.pro","icon":"lock"}
     ]
 }
