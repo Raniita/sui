@@ -13,6 +13,6 @@ steps:
 
 - name: run
   commands:
-    - cd /var/docker/webpages/sui
+    - cd /var/docker/sui
     - docker-compose stop sui-dashboard
     - docker-compose up -d sui-dashboard
